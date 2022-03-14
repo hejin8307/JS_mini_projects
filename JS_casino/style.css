@@ -1,0 +1,27 @@
+.maxNumber {
+  display: flex;
+  align-items: center;
+}
+
+.inputBox {
+  margin-left: 10px;
+  height: 100%;
+}
+
+.guessNumber {
+  display: flex;
+  align-items: center;
+}
+
+.guessNumberBtn {
+  margin-left: 5px;
+}
+
+#result {
+  line-height: 0%;
+  margin-top: -25px;
+}
+
+.hidden {
+  display: none;
+}
